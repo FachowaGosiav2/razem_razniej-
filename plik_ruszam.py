@@ -1,3 +1,5 @@
 print('jendka nie siema')
-if(true):
+if(false):
 	print('hejo')
+print('siema')
+print('Hello wld')
