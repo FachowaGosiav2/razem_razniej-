@@ -1,0 +1,1 @@
+Zmiana pierwszej lini na branchu master.
